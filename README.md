@@ -1,2 +1,2 @@
-# EnergyAnalysis of a Indian Apartment
-Link :  http://seil.cse.iitb.ac.in/residential-dataset/
+# EnergyAnalysis of an Indian Apartment
+Dataset Link :  http://seil.cse.iitb.ac.in/residential-dataset/
